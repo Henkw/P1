@@ -1,0 +1,15 @@
+[
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1615306744064,
+    "id": "0e35ed535cdd475ba4f1588719502f27",
+    "internalTimestamp": "000001615306744064.000126121133383958",
+    "lastModifiedDate": 1615306744064,
+    "relType": "LINK",
+    "sourceId": "b1e13e9e34d8404aa409c9559331439b",
+    "targetId": "5ff69c42180a49669a23b791e929817e",
+    "type": "LinkSourceLINKLinkable",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  }
+]
